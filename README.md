@@ -1,2 +1,2 @@
 # plugin-guard-releases
-Plugin Guard Releases Page
+Официальные сборки Plugin Guard. Хеши сверяются с plugin-guard-registry
