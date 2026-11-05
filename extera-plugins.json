@@ -3,7 +3,7 @@
   "name": "Plugin Guard",
   "description": "Официальный репозиторий плагина Plugin Guard",
   "author": "@Alekssus2",
-  "homepage": "https://t.me/PluginGuardScam",
+  "homepage": "https://t.me/PluginGuard",
   "plugins": [
     {
       "id": "plugin_guard_scam",
